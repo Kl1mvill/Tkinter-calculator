@@ -1,1 +1,3 @@
-# Tkinter-calculator
+# Калькулятор на Tkinter
+
+
